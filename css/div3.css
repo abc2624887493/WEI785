@@ -1,0 +1,19 @@
+
+#div3>img{
+	width: 100%;
+}
+
+#div3>div{
+	display: flex;
+	height: 260px;
+	background-size: 100%;
+	align-items: center;
+	justify-content: space-around;
+}
+
+#div3>div>img{
+	width: 34%;
+	margin-top: 70px;
+	margin-left: 3%;
+
+}
