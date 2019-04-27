@@ -1,0 +1,17 @@
+
+#div4>img{
+	margin-top: 65px;
+	width: 100%;
+}
+
+#div4>div{
+	display: flex;
+	height: 10px;
+	background-size: 100%;
+	align-items: center;
+	justify-content: space-around;
+}
+
+#div4>div>img{
+	width: 33%;
+}
